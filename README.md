@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi there! 👋
+# Vivian
 My personal website: [vivwebz.net](https://vivwebz.net)
 ## 🚀 Contributors
 ![Contributors](https://img.shields.io/github/contributors/ivoryonline/vivwebz)
