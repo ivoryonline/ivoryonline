@@ -1,16 +1,16 @@
-## Hi there 👋
+# Helloo! 👋
 
-<!--
-**ivoryonline/ivoryonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer who mostly works on **web development**, particularly **static websites**, but I occasionally dive into other areas of development and programming as well.
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- 🌐 **Web Development** (Primarily static websites)
+- 💡 **Occasional projects in other areas of programming**
+- 🛠️ Discord bot development & other random projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 My Website
+My personal website: [vivwebz.net](https://vivwebz.net)
+
+## 🚀 Contributors
+![Contributors](https://img.shields.io/github/contributors/ivoryonline/vivwebz)
+
+Thanks for stopping by! 🚀
