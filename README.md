@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vendicated.dev">
+  <a href="https://https://vivwebz.net/">
     <img src="https://assets.vivwebz.net/vivwebz.png" title="88x31">
   </a>
 </p>
