@@ -7,15 +7,17 @@
   </a>
 </p>
 
+<div align="center">
 ![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/languages.svg#gh-light-mode-only)
+</div>
 
 # Current Projects:
 ### Vivwebz: [vivwebz.net](https://vivwebz.net)
 ### 🚀 Contributors
-![Contributors](https://img.shields.io/github/contributors/ivoryonline/vivwebz)
+![Contributors](https://img.shields.io/github/contributors/ivoryonline/vivwebznew)
 ##
 ### SCPCommunity: [scpcommunity](https://scpcommunity.pages.dev/)
 ### 🚀 Contributors
