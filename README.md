@@ -8,10 +8,10 @@
 </p>
 
 <div align="center">
-![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/languages.svg#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/overview.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/overview.svg#gh-light-mode-only"/>
+<img src="https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/languages.svg#gh-dark-mode-only"/>
+<img src="https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/languages.svg#gh-light-mode-only"/>
 </div>
 
 # Current Projects:
