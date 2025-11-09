@@ -15,10 +15,10 @@
 </div>
 
 # Current Projects:
+### 🐠 Tetra: [tetra.vivwebz.net](https://tetra.vivwebz.net)
+### 🧡 Contributors
+![Contributors](https://img.shields.io/github/contributors/ivoryonline/tetra)
+##
 ### Vivwebz: [vivwebz.net](https://vivwebz.net)
 ### 🚀 Contributors
 ![Contributors](https://img.shields.io/github/contributors/ivoryonline/vivwebznew)
-##
-### SCPCommunity: [scpcommunity](https://scpcommunity.pages.dev/)
-### 🚀 Contributors
-![Contributors](https://img.shields.io/github/contributors/ivoryonline/scpcommunity)
