@@ -24,4 +24,3 @@
 ### 🐠 Tetra: [tetra.vivwebz.net](https://tetra.vivwebz.net)
 ### 🧡 Contributors
 ![Contributors](https://img.shields.io/github/contributors/ivoryonline/tetra)
-##
