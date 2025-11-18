@@ -25,6 +25,3 @@
 ### 🧡 Contributors
 ![Contributors](https://img.shields.io/github/contributors/ivoryonline/tetra)
 ##
-### Vivwebz: [vivwebz.net](https://vivwebz.net)
-### 🚀 Contributors
-![Contributors](https://img.shields.io/github/contributors/ivoryonline/vivwebznew)
