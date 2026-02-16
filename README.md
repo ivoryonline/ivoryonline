@@ -21,6 +21,4 @@
 </div>
 
 # Current Projects:
-### 🐠 Tetra: [tetra.vivwebz.net](https://tetra.vivwebz.net)
-### 🧡 Contributors
-![Contributors](https://img.shields.io/github/contributors/ivoryonline/tetra)
+### 🐠 Fisq.org: [fisq.org](https://fisq.org) (Working on Svelte-based Deployment)
