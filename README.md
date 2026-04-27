@@ -20,5 +20,5 @@
 <img src="https://raw.githubusercontent.com/ivoryonline/readmestats/master/generated/languages.svg#gh-light-mode-only"/>
 </div>
 
-# Current Projects:
-### 🐠 Fisq.org: [fisq.org](https://fisq.org) (Working on Svelte-based Deployment)
+# Active Personal Website(s):
+### 🐠 Fisq.org: [fisq.org](https://fisq.org)
